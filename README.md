@@ -35,7 +35,7 @@ Exemplo:
    ```
 3. Execute o programa desejado:
    ```bash
-   python3 1000_Hello_World.py
+   python3 1000.py
    ```
 
 ---
@@ -57,6 +57,6 @@ Recomendo que você tente resolver os exercícios antes de consultar o código.
 
 ## 👨‍💻 Autor
 
-- **Seu Nome**  
+- **Samuel Batista Oliveira**  
 - Estudante de programação e entusiasta em resolver problemas de lógica.  
 - [LinkedIn](https://linkedin.com/in/samuel-batista-oliveira-abab772a8) | [GitHub](https://github.com/samuelbatistaoliveira)
