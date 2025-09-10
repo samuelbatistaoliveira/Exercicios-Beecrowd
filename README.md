@@ -1,4 +1,4 @@
-[README (6) (1).md](https://github.com/user-attachments/files/22263205/README.6.1.md)
+
 # Exercícios Beecrowd em Python
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
@@ -14,12 +14,12 @@ O objetivo é praticar lógica de programação, raciocínio algorítmico e apri
 
 - Cada arquivo corresponde à solução de um exercício.
 - O nome do arquivo segue o padrão:  
-  **`[numero_problema]_[titulo].py`**
+  **`[numero_problema].py`**
 
 Exemplo:  
 ```
-1000_Hello_World.py
-1001_Soma_Simples.py
+1000.py
+1001.py
 ```
 
 ---
@@ -36,7 +36,7 @@ Exemplo:
    ```
 3. Execute o programa desejado:
    ```bash
-   python3 1000_Hello_World.py
+   python3 1000.py
    ```
 
 ---
@@ -58,6 +58,6 @@ Recomendo que você tente resolver os exercícios antes de consultar o código.
 
 ## 👨‍💻 Autor
 
-- **Seu Nome**  
+- **Samuel Batista Oliveira**  
 - Estudante de programação e entusiasta em resolver problemas de lógica.  
-- [LinkedIn](https://linkedin.com/in/seu-usuario) | [GitHub](https://github.com/seu-usuario)
+- [LinkedIn](https://linkedin.com/in/samuel-batista-oliveira-abab772a8) | [GitHub](https://github.com/samuelbatistaoliveira)
