@@ -1,5 +1,5 @@
 A = int(input())
 B = int(input())
 
-soma = A + B
-print("X =  ", soma)
+x = A + B
+print("X =", x)
