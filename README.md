@@ -1,4 +1,3 @@
-
 # Exercícios Beecrowd em Python
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
@@ -60,4 +59,4 @@ Recomendo que você tente resolver os exercícios antes de consultar o código.
 
 - **Samuel Batista Oliveira**  
 - Estudante de programação e entusiasta em resolver problemas de lógica.  
-- [LinkedIn](https://linkedin.com/in/samuel-batista-oliveira-abab772a8) | [GitHub](https://github.com/samuelbatistaoliveira)
+- [LinkedIn](https://linkedin.com/in/seu-usuario) | [GitHub](https://github.com/seu-usuario)
