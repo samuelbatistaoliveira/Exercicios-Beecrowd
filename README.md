@@ -1,31 +1,62 @@
-🎯 Desafios de Programação - BeeCrowd
-Este repositório serve como um registro das minhas soluções para os exercícios da plataforma BeeCrowd (antigo URI Online Judge), todos resolvidos utilizando a linguagem Python.
+# Exercícios Beecrowd em Python
 
-📁 Estrutura do Repositório
-Os exercícios estão organizados em pastas, seguindo as categorias e a numeração da própria plataforma para facilitar a localização:
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-Online_Judge-orange)](https://www.beecrowd.com.br/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-problemas-iniciante/
+Este repositório contém soluções de problemas da plataforma [Beecrowd](https://www.beecrowd.com.br/) desenvolvidas em **Python**.  
+O objetivo é praticar lógica de programação, raciocínio algorítmico e aprimorar as habilidades de resolução de problemas.
 
-problemas-ad-hoc/
+---
 
-problemas-strings/
+## 📂 Estrutura do Repositório
 
-Dentro de cada categoria, os arquivos Python (.py) são nomeados com o número do problema. Por exemplo, a solução para o problema "1001 - Extremamente Básico" está em:
+- Cada arquivo corresponde à solução de um exercício.
+- O nome do arquivo segue o padrão:  
+  **`(numero_problema).py`**
 
-problemas-iniciante/1001.py
+Exemplo:  
+```
+1000.py
+1001.py
+```
 
-🚀 Como Executar
-Para rodar qualquer uma das soluções, você só precisa ter o Python instalado na sua máquina. Abra o terminal, navegue até o repositório e execute o arquivo desejado:
+---
 
-Bash
+## 🚀 Como Executar
 
-# Exemplo: Rodando o problema 1001
-python problemas-iniciante/1001.py
-⚠️ Aviso
-As soluções aqui presentes representam a minha forma de resolver cada problema. Existem diversas abordagens e algoritmos diferentes para chegar ao mesmo resultado.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/Exercicios-Beecrowd-em-Python.git
+   ```
+2. Entre no diretório:
+   ```bash
+   cd Exercicios-Beecrowd-em-Python
+   ```
+3. Execute o programa desejado:
+   ```bash
+   python3 1000_Hello_World.py
+   ```
 
-📚 Referências
-BeeCrowd - A plataforma oficial onde todos os problemas foram retirados.
+---
 
-📜 Licença
-Este projeto está sob a licença MIT. Para mais informações, consulte o arquivo LICENSE.
+## 🎯 Objetivo
+
+- Reunir soluções organizadas para estudo.
+- Servir como base de consulta para outros estudantes.
+- Praticar boas práticas de programação em Python.
+
+---
+
+## 📌 Observação
+
+As soluções foram feitas para **fins de estudo**.  
+Recomendo que você tente resolver os exercícios antes de consultar o código.
+
+---
+
+## 👨‍💻 Autor
+
+- **Seu Nome**  
+- Estudante de programação e entusiasta em resolver problemas de lógica.  
+- [LinkedIn](https://linkedin.com/in/samuel-batista-oliveira-abab772a8) | [GitHub](https://github.com/samuelbatistaoliveira)
