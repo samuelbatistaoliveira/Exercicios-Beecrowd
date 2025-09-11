@@ -31,7 +31,7 @@ Exemplo:
    ```
 2. Entre no diretório:
    ```bash
-   cd Exercicios-Beecrowd-em-Python
+   cd Exercicios-Beecrowd
    ```
 3. Execute o programa desejado:
    ```bash
