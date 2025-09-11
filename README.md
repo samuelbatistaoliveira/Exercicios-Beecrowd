@@ -27,7 +27,7 @@ Exemplo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Exercicios-Beecrowd-em-Python.git
+   git clone https://github.com/samuelbatistaoliveira/Exercicios-Beecrowd-em-Python.git
    ```
 2. Entre no diretório:
    ```bash
