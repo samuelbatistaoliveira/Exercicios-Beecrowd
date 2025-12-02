@@ -19,7 +19,7 @@ for i in range(n):
 total = coelho + rato + sapo
 print(f"Total: {total} cobaias")
 print(f"Total de coelhos: {coelho}")
-print(f"Total de ratos: {rato}")
+print(f"Total de ratos: {rato}") 
 print(f"Total de sapos: {sapo}")
 
 
